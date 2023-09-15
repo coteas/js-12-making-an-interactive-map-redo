@@ -1,0 +1,32 @@
+#map { 
+    border-style: solid;
+    flex:display;
+    margin: 0 auto;
+    height:900px;
+    width:1800px;
+}
+
+form{
+    
+    margin: 0 auto;
+}
+
+h1{
+    
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding:20px;
+}
+
+body{
+    
+    font-family:'Avenir';
+    background-color: gray;
+}
+
+.drop-down-menu{
+    display: flex;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
